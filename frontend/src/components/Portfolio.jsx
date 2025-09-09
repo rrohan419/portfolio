@@ -47,6 +47,7 @@ const Portfolio = () => {
         <Contact isVisible={isVisible.contact} />
       </main>
       <Footer />
+      <Toaster />
     </div>
   );
 };
