@@ -14,7 +14,7 @@ export const personalInfo = {
 
 export const aboutMe = {
   summary: "Technically sound Software Engineer with 3+ years of expertise in product development and engineering. Adept at using tools like Spring Boot, Hibernate, and Kafka for real-time data solutions, emphasizing efficient data management and quality. Proven track record in addressing challenges promptly and collaborating with teams to deliver data-driven insights for informed organizational decision-making.",
-  currentProject: "Currently working on www.kittyp.in - a personal project focused on innovative solutions.",
+  currentProject: "Currently working on RainyDayParents - a React Native mobile application with Spring Boot backend, and www.kittyp.in - a personal project focused on innovative solutions.",
   education: {
     degree: "Bachelor of Engineering – Electronics & Telecommunication",
     institution: "Sinhgad Academy of Engineering, Pune, India",
