@@ -4,7 +4,7 @@ export const personalInfo = {
   name: "Rohan Shrivastava",
   title: "Software Engineer",
   tagline: "Building scalable solutions with 3+ years of expertise in product development and engineering",
-  location: "Pune, India",
+  location: "Gaya, India",
   email: "rrohan419@gmail.com",
   phone: "+918668530410",
   linkedin: "https://linkedin.com/in/rrohan419",

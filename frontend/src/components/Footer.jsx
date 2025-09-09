@@ -39,7 +39,7 @@ const Footer = () => {
               © {currentYear} Rohan Shrivastava. All rights reserved.
             </p>
             <p className="text-zinc-600 text-xs mt-2">
-              Designed & Developed with passion in Pune, India
+              Designed & Developed with passion in Gaya, Bihar
             </p>
           </div>
         </div>
