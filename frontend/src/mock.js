@@ -128,6 +128,21 @@ export const experience = [
 export const projects = [
   {
     id: 1,
+    title: "RainyDayParents - Mobile App",
+    description: "Currently developing a comprehensive React Native mobile application with Spring Boot backend, focusing on modern parenting solutions and family management.",
+    technologies: ["React Native", "Spring Boot", "AWS S3", "AWS Secrets Manager", "AWS SQS", "Twilio", "Firebase"],
+    category: "Mobile",
+    status: "In Development",
+    link: null,
+    highlights: [
+      "React Native cross-platform development",
+      "AWS cloud infrastructure integration",
+      "Real-time messaging with SQS and Firebase",
+      "Secure credential management"
+    ]
+  },
+  {
+    id: 2,
     title: "MyMori Healthcare Platform",
     description: "Microservice-based healthcare platform with subscription management and secure authentication systems.",
     technologies: ["Spring Boot", "AWS", "Twilio", "Apple/Google APIs"],
@@ -141,7 +156,7 @@ export const projects = [
     ]
   },
   {
-    id: 2,
+    id: 3,
     title: "StartupOS Financial Dashboard",
     description: "Comprehensive financial management solution for startups with third-party integrations and analytics.",
     technologies: ["Spring Boot", "GraphQL", "Google APIs", "Data Visualization"],
@@ -155,7 +170,7 @@ export const projects = [
     ]
   },
   {
-    id: 3,
+    id: 4,
     title: "Kitty P - Personal Project",
     description: "Currently developing an innovative solution focused on modern web technologies and user experience.",
     technologies: ["Modern Web Stack", "Responsive Design"],
@@ -169,7 +184,7 @@ export const projects = [
     ]
   },
   {
-    id: 4,
+    id: 5,
     title: "Theatre Ticketing System",
     description: "Scalable online ticketing platform inspired by BookMyShow with real-time booking capabilities.",
     technologies: ["Spring Boot", "Angular", "Spring Security", "JWT"],
@@ -183,7 +198,7 @@ export const projects = [
     ]
   },
   {
-    id: 5,
+    id: 6,
     title: "E-commerce Jewelry Store",
     description: "Full-featured online jewelry store with secure payment processing and inventory management.",
     technologies: ["Angular", "Spring Boot", "Stripe", "PostgreSQL"],
@@ -197,7 +212,7 @@ export const projects = [
     ]
   },
   {
-    id: 6,
+    id: 7,
     title: "Epico Automation System",
     description: "Internal automation system for streamlining team review processes and feedback management.",
     technologies: ["Spring Boot", "Microservices", "REST APIs"],
