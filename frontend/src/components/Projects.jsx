@@ -6,7 +6,7 @@ const Projects = ({ isVisible }) => {
   const [filter, setFilter] = useState('All');
   const [hoveredProject, setHoveredProject] = useState(null);
 
-  const categories = ['All', 'Healthcare', 'FinTech', 'Personal', 'Entertainment', 'E-commerce', 'Enterprise'];
+  const categories = ['All', 'Mobile', 'Healthcare', 'FinTech', 'Personal', 'Entertainment', 'E-commerce', 'Enterprise'];
   
   const filteredProjects = filter === 'All' 
     ? projects 
