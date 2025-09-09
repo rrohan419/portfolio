@@ -37,7 +37,7 @@ export const skills = {
   "Databases": ["PostgreSQL", "MySQL", "MongoDB"],
   "Cloud & AWS": ["AWS S3", "EC2", "Lambda", "DynamoDB", "RDS", "CloudWatch", "Secrets Manager"],
   "Tools & Technologies": ["Docker", "GraphQL", "REST APIs", "JUnit", "Mockito", "Git", "Jira", "Postman"],
-  "Integration Services": ["Twilio", "SendGrid", "Stripe", "Google APIs", "Mailchimp"]
+  "Integration Services": ["Twilio", "SendGrid", "Stripe", "Google APIs", "Mailchimp", "Xero", "Intuit QuickBooks", "Plaid", "Excel", "Google Sheets", "ZeptoMail", "Razorpay"]
 };
 
 export const experience = [
