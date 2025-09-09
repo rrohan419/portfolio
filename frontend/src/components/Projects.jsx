@@ -27,6 +27,8 @@ const Projects = ({ isVisible }) => {
 
   const getCategoryIcon = (category) => {
     switch (category) {
+      case 'Mobile':
+        return <Globe className="text-cyan-400" size={20} />;
       case 'Healthcare':
         return <Shield className="text-green-400" size={20} />;
       case 'FinTech':
